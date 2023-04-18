@@ -1,6 +1,6 @@
 {
-  "name": "Astro-Md",
-  "version": "7.0.0",
+  "name": "PasinduLk",
+  "version": "1.0.0",
   "description": "Multi device whatsapp bot.",
   "main": "index.js",
   "type": "commonjs",
@@ -16,8 +16,8 @@
 "keywords": [
 "whatsapp"
 ],
-"author": "VihangaYT",
-"developer": "VihangaYT",
+"author": "PsDelZap",
+"developer": "PsDelZap",
 "homepage": "https://github.com/vihangayt0/Astro-MD-V6",
 "dependencies": {
 "@adiwajshing/baileys": "^5.0.0",
